@@ -15,7 +15,6 @@ sheguideme/
 │   └── test_post.py       # Post creation test
 ├── conftest.py            # Loads .env before tests
 ├── .env                   # ⚠️ NOT pushed to GitHub (your real credentials)
-├── .env.example           # ✅ Pushed to GitHub (template with no real values)
 ├── .gitignore
 ├── requirements.txt
 └── README.md
