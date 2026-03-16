@@ -1,0 +1,18 @@
+# Environment variables - NEVER push this
+.env
+
+# Playwright
+playwright-report/
+test-results/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
