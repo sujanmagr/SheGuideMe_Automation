@@ -35,8 +35,7 @@ playwright install
 ```
 
 ### 3. Configure credentials
-```bash
-cp .env.example .env
+in .env file
 ```
 Open `.env` and fill in your real credentials:
 ```
@@ -59,4 +58,4 @@ pytest tests/ --headed
 ```
 
 ## ⚠️ Security Note
-Never commit your `.env` file. It is listed in `.gitignore` to prevent accidental exposure of credentials.
+Never commit your `.env` file. .
