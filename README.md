@@ -56,6 +56,3 @@ pytest tests/test_post.py
 # Run headed (see the browser)
 pytest tests/ --headed
 ```
-
-## ⚠️ Security Note
-Never commit your `.env` file. .
